@@ -1,0 +1,10 @@
+#!/bin/bash
+touch .gitignore
+touch README
+touch _config.yml
+mkdir _layouts
+touch _layouts/layout.html
+touch _layouts/post.html
+mkdir _posts
+touch _posts/1985-10-26-Test-Post.md
+touch index.html
